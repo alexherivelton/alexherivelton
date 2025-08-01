@@ -9,6 +9,6 @@ Sou estudante de Sistemas de Informação na UFVJM e, atualmente, estou começan
 Minha meta é transformar essa paixão em carreira, buscando sempre aprender, evoluir e contribuir com soluções reais por meio da programação.
 
 ![AlexHerivelton GitHub stats](https://github-readme-stats.vercel.app/api?username=alexherivelton&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexherivelton&layout=compact&theme=tokyonight&hide=html)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexherivelton&layout=compact&theme=tokyonight&hide=html) -->
 
 
