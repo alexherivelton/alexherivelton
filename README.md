@@ -8,12 +8,7 @@ Sou estudante de Sistemas de Informação na UFVJM e, atualmente, estou começan
 
 Minha meta é transformar essa paixão em carreira, buscando sempre aprender, evoluir e contribuir com soluções reais por meio da programação.
 
-<div style="display: inline_block"><br/>
-    <img align= "center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img align= "center" alt="html5" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-    <img align= "center" alt="html5" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-    <img align= "center" alt="html5" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img align= "center" alt="html5" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-   
+![AlexHerivelton GitHub stats](https://github-readme-stats.vercel.app/api?username=alexherivelton&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexherivelton&layout=compact&theme=tokyonight&hide=html)
 
-</div>
+
